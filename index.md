@@ -4,7 +4,8 @@ layout: col-sidebar
 title: OWASP Philadelphia
 tags: philadelphia
 level: 3
-region: United States
+region: North America
+
 ---
 Welcome to the Philadelphia chapter homepage. 
 
