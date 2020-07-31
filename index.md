@@ -5,6 +5,9 @@ title: OWASP Philadelphia
 tags: philadelphia
 level: 3
 region: North America
+meetup-group: OWASP-Philadelphia
+country: USA
+postal-code: 19019
 
 ---
 Welcome to the Philadelphia chapter homepage. 
