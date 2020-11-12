@@ -1,5 +1,5 @@
 ### Leaders
 
 * [Evan Oslick](mailto:evan.oslick@owasp.org)
-* [John Baek](mailto:)
-* [Aaron Weaver](mailto:)
+*
+* [Aaron Weaver](mailto:aaron.weaver@owasp.org)
