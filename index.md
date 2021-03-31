@@ -12,5 +12,14 @@ postal-code: 19019
 ---
 Welcome to the Philadelphia chapter homepage. 
 
-## Upcoming events
-* Tenantive date to have a CTF in Philly the 3rd week of March
+***EVERYONE*** is welcome to attend our regular meetings, whether CSO, Developer, QA Engineer, Project Manager, ....  whoever, welcome.  We are dedicated to vendor neutral presentations that raise the security awareness of all attendees.  Come join us!
+
+Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Philadelphia/) 
+
+The chapter board is 
+
+* [Aaron Weaver](mailto:aaron.weaver@owasp.org)
+* [Evan Oslick ](mailto:evan.oslick@owasp.org)
+
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
