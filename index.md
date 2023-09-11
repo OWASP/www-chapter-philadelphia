@@ -16,10 +16,7 @@ Welcome to the Philadelphia chapter homepage.
 
 Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Philadelphia/) 
 
-The chapter board is 
 
-* [Aaron Weaver](mailto:aaron.weaver@owasp.org)
-* [Evan Oslick ](mailto:evan.oslick@owasp.org)
 
 ### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
