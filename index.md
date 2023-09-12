@@ -10,12 +10,13 @@ country: USA
 postal-code: 19019
 
 ---
-Welcome to the Philadelphia chapter homepage. 
+Hi and Welcome to the Philadelphia chapter homepage! 
 
-***EVERYONE*** is welcome to attend our regular meetings, whether CSO, Developer, QA Engineer, Project Manager, ....  whoever, welcome.  We are dedicated to vendor neutral presentations that raise the security awareness of all attendees.  Come join us!
+We are working to foster an open and accessible community of security practioners of all types. ***EVERYONE*** is welcome to attend our meetings as we work together to raise the security awareness and skillsets of all attendees through an open exchance of information.  Come join us!
+
+Our first meeting will be in Novemember of 2023 - please <a href="mailto:higgs.json@owasp.org">email Matt</a> if you are interested in speaking or have any questions! See you soon.
 
 Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Philadelphia/) 
-
 
 
 ### Check our Upcoming Meetup Events:
