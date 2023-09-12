@@ -12,7 +12,7 @@ postal-code: 19019
 ---
 Hi and Welcome to the Philadelphia chapter homepage! 
 
-We are working to foster an open and accessible community of security practioners of all types. ***EVERYONE*** is welcome to attend our meetings as we work together to raise the security awareness and skillsets of all attendees through an open exchance of information.  Come join us!
+We are working to foster an open and accessible community of security practitioners of all types. EVERYONE is welcome to attend our meetings as we work together to raise the security awareness and skill sets of all attendees through an open exchange of information. Come join us!
 
 Our first meeting will be in Novemember of 2023 - please <a href="mailto:higgs.json@owasp.org">email Matt</a> if you are interested in speaking or have any questions! See you soon.
 
