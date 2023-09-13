@@ -1,5 +1,5 @@
 ### Leaders
 
 * [Matt Bosack](mailto:higgs.json@owasp.org)
-* [Bogan Niemoczynski](mailto:bogan.niemoczynski@owasp.org)
+* [Bogdan Niemoczynski](mailto:bogdan.niemoczynski@owasp.org)
   
