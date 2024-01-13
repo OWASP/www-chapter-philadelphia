@@ -19,5 +19,8 @@ Our first meeting will be in January of 2024 - please <a href="mailto:higgs.json
 Follow chapter news on [Meetup](https://www.meetup.com/owasp-philadelphia-chapter/)
 
 
-### Check our Upcoming Meetup Events:
-{% include chapter_events.html group=page.meetup-group %}
+### Check out our Upcoming Events:
+
+It's here! Our first meeting will be Tuesday, January 23, 2024 at the Black Sheep Pub in Center City Philadelphia.
+
+We'll talk a bit of shop about OWASP, do some introductions, discuss any project ideas, and talk about what people want to see in a Philly based Application Security group.
