@@ -20,6 +20,8 @@ Follow chapter news on [Meetup](https://www.meetup.com/owasp-philadelphia-chapte
 
 ### Check out our Upcoming Events:
 
-[Speaker Event #1 - Tuesday 2/20](https://www.meetup.com/owasp-philadelphia-chapter/events/298848629/)
+Wow time flies! Our next two events are going to rock - Eli Flanagan is going to give an awesome talk about memory safety, and then the Chapter is participating in Philly Tech Week via running a CTF! Would love for you to attend, and volunteers are always needed. Let's Go! 
 
-[Project Meeting #1 - Tuesday 3/26](https://www.meetup.com/owasp-philadelphia-chapter/events/298848679/)
+[Speaker Event #2 - Tuesday 4/16]([848679/](https://www.meetup.com/owasp-philadelphia-chapter/events/299949120/))
+
+[Special Event! CTF - Tuesday 5/7]([https://www.meetup.com/owasp-philadelphia-chapter/events/298848629/](https://www.meetup.com/owasp-philadelphia-chapter/events/300176058/))
