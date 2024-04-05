@@ -24,4 +24,4 @@ Wow time flies! Our next two events are going to rock - Eli Flanagan is going to
 
 [Speaker Event #2 - Tuesday 4/16]([848679/](https://www.meetup.com/owasp-philadelphia-chapter/events/299949120/))
 
-[Special Event! CTF - Tuesday 5/7]([https://www.meetup.com/owasp-philadelphia-chapter/events/298848629/](https://www.meetup.com/owasp-philadelphia-chapter/events/300176058/))
+[Special Event! CTF - Tuesday 5/7]([https://www.meetup.com/owasp-philadelphia-chapter/events/300176058/])
