@@ -5,7 +5,7 @@ title: OWASP Philadelphia
 tags: philadelphia
 level: 3
 region: North America
-meetup-group: OWASP-Philadelphia
+meetup-group: OWASP-Philadelphia-Chapter
 country: USA
 postal-code: 19019
 
@@ -20,8 +20,6 @@ Follow chapter news on [Meetup](https://www.meetup.com/owasp-philadelphia-chapte
 
 ### Check out our Upcoming Events:
 
-Wow time flies! Our next two events are going to rock - Eli Flanagan is going to give an awesome talk about memory safety, and then the Chapter is participating in Philly Tech Week via running a CTF! Would love for you to attend, and volunteers are always needed. Let's Go! 
+Wow time flies! We have a speaker lined up for our June meet up, and we will post the details soon!
 
-[Speaker Event #2 - Tuesday 4/16](https://www.meetup.com/owasp-philadelphia-chapter/events/299949120/)
-
-[Special Event! CTF - Tuesday 5/7](https://www.meetup.com/owasp-philadelphia-chapter/events/300176058/)
+[Speaker Event #3 - Tuesday 6/16]
