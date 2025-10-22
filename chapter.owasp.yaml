@@ -1,0 +1,29 @@
+community:
+  - name: chapter-philadelphia
+    platform: slack
+    url: https://owasp.slack.com/archives/C06G1HW9R1S
+leaders:
+  - name: Matt Bosack
+    email: higgs.json@owasp.org
+    github: matb42
+  - name: Bogdan Niemoczynski
+    email: bogdan.niemoczynski@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: Pennsylvania
+  city: Philadelphia
+  postal_code: '19019'
+  latitude: 39.9527237
+  longitude: -75.1635262
+meetup_group: OWASP-Philadelphia-Chapter
+name: OWASP Philadelphia
+repositories:
+  - name: www-chapter-philadelphia
+    url: https://github.com/OWASP/www-chapter-philadelphia
+    description: OWASP Foundation Web Repository
+tags:
+  - philadelphia
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-philadelphia
